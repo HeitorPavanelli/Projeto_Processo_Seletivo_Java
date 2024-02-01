@@ -1,6 +1,8 @@
+package impressao_numeros;
+
 import java.util.Scanner;
 
-public class Processo_Seletivo {
+public class Contador {
     public static void main(String[] args) throws Exception {
         try {
             Scanner sc = new Scanner(System.in);

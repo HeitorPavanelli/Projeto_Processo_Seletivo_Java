@@ -1,3 +1,4 @@
+package impressao_numeros;
 
 public class ParametrosInvalidosException extends Exception{
     public ParametrosInvalidosException() {
